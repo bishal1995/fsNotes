@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/101.md",
+                "file": "Notes/What questions to ask ?.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "53e7c0da0afe5b1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/NISM/Research analyst/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "328b0b3b8e4725f3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 206.5124969482422
   },
   "right": {
     "id": "02a90348623cc9d9",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/101.md",
+                "file": "Notes/NISM/Research analyst/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/101.md",
+                "file": "Notes/NISM/Research analyst/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/101.md"
+                "file": "Notes/NISM/Research analyst/Introduction.md"
               }
             }
           }
@@ -146,6 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "98c6413b4c43f2dd",
-  "lastOpenFiles": []
+  "active": "53e7c0da0afe5b1b",
+  "lastOpenFiles": [
+    "Notes/What questions to ask ?.md",
+    "Notes/101.md",
+    "Notes/Paper/HCE_Agent_based_macroeconomics.pdf",
+    "Notes/Paper/1-s2.0-S2212567114004286-main.pdf",
+    "Notes/Paper/An_Agent-Based_Approach_to_Artificial_Stock_Market.pdf"
+  ]
 }
