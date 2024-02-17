@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "1f34c435b2dc762e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/What questions to ask ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "328b0b3b8e4725f3",
             "type": "leaf",
             "state": {
@@ -40,7 +52,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5124969482422
+    "width": 206.5124969482422,
+    "collapsed": true
   },
   "right": {
     "id": "02a90348623cc9d9",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/HFT/Research papers.md",
+                "file": "Notes/What questions to ask ?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/HFT/Research papers.md",
+                "file": "Notes/What questions to ask ?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +167,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/HFT/Research papers.md"
+                "file": "Notes/What questions to ask ?.md"
+              }
+            }
+          },
+          {
+            "id": "ff751bb84ac279ef",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -175,23 +200,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2363e8987b96cfc9",
+  "active": "1f34c435b2dc762e",
   "lastOpenFiles": [
-    "Notes/Algo trading/What is technically possible ?.md",
-    "Notes/HFT/Research papers.md",
-    "Notes/HFT",
-    "Notes/NISM/Research analyst/Introduction.md",
-    "Notes/SEBI RA/Market.md",
-    "Notes/SEBI RA/Securities.md",
     "Notes/101.md",
+    "Notes/HFT/Research papers.md",
+    "Notes/NISM/Research analyst/Introduction.md",
     "Notes/What questions to ask ?.md",
+    "Notes/Algo trading/What is technically possible ?.md",
+    "Notes/NISM/Chapter 3 Terminology in equity and debt markets.md",
+    "Notes/NISM/SEBI RA/Market.md",
+    "Notes/Paper/An_Agent-Based_Approach_to_Artificial_Stock_Market.pdf",
+    "Notes/NISM/SEBI RA/Securities.md",
+    "Notes/HFT",
     "Notes/Paper/HCE_heterogenous_agent_models.pdf",
     "Notes/Paper/HCE_Agent-Based_Models_for_Market_Impact_and_Volatility.pdf",
     "Notes/SEBI RA/Markets.md",
-    "Notes/SEBI RA",
+    "Notes/NISM/SEBI RA",
     "Notes/Algo trading",
     "Notes/Paper/HCE_Agent_based_macroeconomics.pdf",
-    "Notes/Paper/1-s2.0-S2212567114004286-main.pdf",
-    "Notes/Paper/An_Agent-Based_Approach_to_Artificial_Stock_Market.pdf"
+    "Notes/Paper/1-s2.0-S2212567114004286-main.pdf"
   ]
 }
