@@ -11,4 +11,10 @@
 
 * Resources
 	* https://github.com/wilsonfreitas/awesome-quant
-	* 
+
+
+
+
+
+
+**Role of algorithm in trading**

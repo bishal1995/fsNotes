@@ -4,55 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e17f7daf669a817e",
+        "id": "6fcd0a820117846e",
         "type": "tabs",
         "children": [
           {
-            "id": "98c6413b4c43f2dd",
+            "id": "a6b21ce2cc93017d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Algo trading/What is technically possible ?.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2363e8987b96cfc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/HFT/Research papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f34c435b2dc762e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/What questions to ask ?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "328b0b3b8e4725f3",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 206.5124969482422,
-    "collapsed": true
+    "width": 206.5124969482422
   },
   "right": {
     "id": "02a90348623cc9d9",
@@ -127,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/What questions to ask ?.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/What questions to ask ?.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/What questions to ask ?.md"
+                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md"
               }
             }
           },
@@ -200,24 +166,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f34c435b2dc762e",
+  "active": "87c78462733e8dae",
   "lastOpenFiles": [
-    "Notes/101.md",
-    "Notes/HFT/Research papers.md",
-    "Notes/NISM/Research analyst/Introduction.md",
-    "Notes/What questions to ask ?.md",
-    "Notes/Algo trading/What is technically possible ?.md",
-    "Notes/NISM/Chapter 3 Terminology in equity and debt markets.md",
+    "Notes/finance/papers/insight-why-were-not-as-self-aware-as-we-think-and-how-seeing-ourselves-clearly-helps-us-succeed-at-work-and-in-life-pdfdrive-.pdf",
+    "Notes/finance/NISM/NISM-SERIES-VIII--EQUITY-DERIVATIVES-EXAM-WORKBOOK-IN-PDF.pdf",
+    "Notes/finance/vdoc.pub_quantitative-trading-algorithms-analytics-data-models-optimization-1.pdf",
+    "Notes/finance/quantativeTrading_Ernie_Chan.pdf",
+    "Notes/finance/papers",
+    "Notes/finance/numerical-methods-for-finance-chapman-amp-hall-crc-financial-mathematics-series-9781584889250-158488925x.pdf",
+    "Notes/finance/modeling complex systems - boccara.pdf",
+    "Notes/finance/kupdf.net_quantitative-equity-portfolio-management-modern-techniques-and-applications.pdf",
+    "Notes/finance/kupdf.net_harris-trading-and-exchanges-market-microstructure-for-practitioners-2003.pdf",
+    "Notes/finance/dokumen.pub_quantitative-portfolio-management-the-art-and-science-of-statistical-arbitrage-1nbsped-1119821320-9781119821328-i-5896759.pdf",
+    "Notes/finance/analysis-of-financial-time-series-copy-2ffgm3v.pdf",
+    "Notes/NISM/Equity Derivative/Intro to Derivatives.md",
+    "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
     "Notes/NISM/SEBI RA/Market.md",
-    "Notes/Paper/An_Agent-Based_Approach_to_Artificial_Stock_Market.pdf",
     "Notes/NISM/SEBI RA/Securities.md",
-    "Notes/HFT",
-    "Notes/Paper/HCE_heterogenous_agent_models.pdf",
-    "Notes/Paper/HCE_Agent-Based_Models_for_Market_Impact_and_Volatility.pdf",
-    "Notes/SEBI RA/Markets.md",
-    "Notes/NISM/SEBI RA",
-    "Notes/Algo trading",
-    "Notes/Paper/HCE_Agent_based_macroeconomics.pdf",
-    "Notes/Paper/1-s2.0-S2212567114004286-main.pdf"
+    "Notes/NISM/Research analyst/Introduction.md",
+    "Notes/NISM/Chapter 3 Terminology in equity and debt markets.md",
+    "Notes/102.md",
+    "Notes/101.md",
+    "Notes/NISM/Equity Derivative/Indexes.md",
+    "Notes/What questions to ask ?.md",
+    "Notes/HFT/Research papers.md",
+    "Notes/Algo trading/What is technically possible ?.md",
+    "Notes/SEBI RA/Markets.md"
   ]
 }
