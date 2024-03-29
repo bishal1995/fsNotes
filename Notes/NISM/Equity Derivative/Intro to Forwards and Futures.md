@@ -17,6 +17,11 @@ Future Pricing depends on
 * Demand and supply of underlying
 * Cash Flow pattern
 
-Pricing Models
-* Cost Of Carry model
-* Expectations model
+**Pricing Models**
+* Cost Of Carry model (no-arbitrage model) - This model assumes that in an efficient market, arbitrage opportunities cannot exist.
+	* Cost of transaction : Cost components of futures transaction like margins, transaction costs (commissions), taxes etc. create distortions and move the markets away from equilibrium. In fact, these cost components create no-arbitrage bounds in the market i.e., if the futures price is within these bounds around the fair futures price, arbitrage will not take place. In other words, because of the frictions in the market, for arbitrage to get triggered, it is important for the futures price to fall outside the no-arbitrage bounds in either direction for the arbitragers to make profit from the arbitrage opportunities.
+	* No-arbitrage bounds : Practically, every component of carrying cost contributes towards widening of these no- arbitrage bounds. Here, we should appreciate that wider the no-arbitrage bounds, farther the markets are from the equilibrium. In other words, for the markets to be efficient, different costs of operating in the markets should be as low as possible. Lower costs would narrow the no-arbitrage bounds, which in turn would ensure the efficient price alignment across the markets.
+* Expectations model 
+	* According to the expectations hypothesis, it is not the relationship between spot and futures prices, but that of expected spot and futures prices, which moves the market, especially in cases when the asset cannot be sold short or cannot be stored.
+		* Futures can trade at a premium or discount to the spot price of underlying asset.
+		* Futures price gives market participants an indication of the expected direction of movement of the spot price in the future.

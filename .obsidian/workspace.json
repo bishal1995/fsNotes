@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
+                "file": "Notes/NISM/Equity Derivative/Intro to Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md"
+                "file": "Notes/NISM/Equity Derivative/Intro to Options.md"
               }
             }
           },
@@ -166,8 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "87c78462733e8dae",
+  "active": "a6b21ce2cc93017d",
   "lastOpenFiles": [
+    "Notes/NISM/Equity Derivative/Strategies using Equity futures and Equity options.md",
+    "Notes/NISM/Equity Derivative/Intro to Options.md",
+    "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
     "Notes/finance/papers/insight-why-were-not-as-self-aware-as-we-think-and-how-seeing-ourselves-clearly-helps-us-succeed-at-work-and-in-life-pdfdrive-.pdf",
     "Notes/finance/NISM/NISM-SERIES-VIII--EQUITY-DERIVATIVES-EXAM-WORKBOOK-IN-PDF.pdf",
     "Notes/finance/vdoc.pub_quantitative-trading-algorithms-analytics-data-models-optimization-1.pdf",
@@ -178,9 +181,7 @@
     "Notes/finance/kupdf.net_quantitative-equity-portfolio-management-modern-techniques-and-applications.pdf",
     "Notes/finance/kupdf.net_harris-trading-and-exchanges-market-microstructure-for-practitioners-2003.pdf",
     "Notes/finance/dokumen.pub_quantitative-portfolio-management-the-art-and-science-of-statistical-arbitrage-1nbsped-1119821320-9781119821328-i-5896759.pdf",
-    "Notes/finance/analysis-of-financial-time-series-copy-2ffgm3v.pdf",
     "Notes/NISM/Equity Derivative/Intro to Derivatives.md",
-    "Notes/NISM/Equity Derivative/Intro to Forwards and Futures.md",
     "Notes/NISM/SEBI RA/Market.md",
     "Notes/NISM/SEBI RA/Securities.md",
     "Notes/NISM/Research analyst/Introduction.md",
