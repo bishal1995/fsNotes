@@ -1,0 +1,4 @@
+
+Momentum trading, a popular approach in short-term trading, revolves around spotting changing asset prices and capitalising on these changes by aligning positions with the anticipated price movement. Traders anticipate continued price momentum in the chosen direction, driving their investment decisions. 
+ **underlying principle for momentum trading is to “buy high and sell higher”, and vice-versa.**
+This strategy relies on the idea that market trends persist before reversing, allowing traders to maximise returns by following the trend. Hence, you can analyse assets in the short-term and buy the assets whose price is rising. Then sell those assets when the price trend seems to become weak.
